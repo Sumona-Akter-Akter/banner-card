@@ -1,0 +1,144 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.banner-card{
+    position: relative;
+}
+
+.banner-card img{
+     width: 1050px;
+     height: 600px;
+     text-align: center;
+     border-radius: 16px;
+     background: linear-gradient;
+}
+ .banner-text{
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    left:25%;
+    right: 20%;
+    color: white;
+    padding: 10px;
+    
+ }
+ .banner-container{
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px;
+ }
+.banner-container p{
+    color: red;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+}
+ .banner-container h3{
+    color: black;
+    width: 700;
+ }
+  img{
+    text-align: center;
+    border-radius: 5px;
+    width: 200px;
+    height: 500px;
+ }
+ main{
+   max-width: 1050px;
+   margin: 0 auto;
+ }
+ main section{
+   margin-top: 130px;
+ }
+ .banner-content img{
+   width: 1320px;
+   height: 600px;
+   text-align: center;
+   border-radius: 16px;
+   background: linear-gradient;
+ }
+ .about{
+   display: flex;
+   align-items: center;
+   min-height: 80vh;
+   background: url(../B9A1-New-Year-New-Mission/resources/vector.png) no-repeat;
+   background-size: cover;
+   background-position: center;
+   
+ }
+ .about .content{
+   max-width: 50rem;
+ }
+ .about .content h3{
+   font-size: 40px;
+   color: white;
+   text-align: left;
+ }
+ .about .content p{
+   color: white;
+   font-size: 20px;
+   padding: 1px 0;
+   line-height: 1.5;
+ }
+
+ .btn-primary{
+  background: red;
+  color: white;
+ }
+ .about .images{
+  display: flex;
+  width: 500px;
+  height: 500px;
+  padding: 13px 0px 30px 0px;
+  flex-direction: column;
+  justify-content:right;
+  text-align: right;
+  
+ }
+ .about-info{
+  text-align: center;
+ }
+ .info-title{
+  color: red;
+  text-align: center;
+  font-size: 20px;
+ }
+
+ .info-description{
+  color:black;
+  text-align: center;
+  font-size: 20px;
+ }
+.footer-column{
+  
+  width: 50%;
+  
+}
+.section-greeting{
+  color: #F00;
+text-align: left;
+font-size: 18px;
+}
+.section-title{
+  color: #070211;
+font-size: 30px;
+}
+
+.footer-column p{
+  color: black;
+font-size: 20px;
+font-style: normal;
+line-height: 15px; 
+
+}
+.footer-column h2{
+  color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
